@@ -14,4 +14,4 @@ Made using the JUCE framework
 These plugins are free to use and I make them on my spare time. If you like them and are able to help by becoming a Patreon member, I would be very grateful.
 [Patreon](https://www.patreon.com/lowwavestudios)
 
-![Screenshot](Track24.jpeg)
+![Screenshot](Track24.jpg)
